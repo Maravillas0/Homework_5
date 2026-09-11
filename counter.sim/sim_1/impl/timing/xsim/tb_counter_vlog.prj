@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"tb_counter_time_impl.v" \
+"../../../../../counter.srcs/sim_1/new/tb_counter.v" \
+
+# Do not sort compile order
+nosort

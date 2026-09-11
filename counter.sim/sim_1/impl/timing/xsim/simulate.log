@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+[PASS]                                                                                                                                                                                                    RESET | count = 0
+[PASS]                                                                                                                                                                                        en = 1, up_down=1 | count = 0
+[PASS]                                                                                                                                                                                                EN=0 HOLD | count = 0
+[PASS]                                                                                                                                                                                          en=1, up_down=0 | count = 15
+[PASS]                                                                                                                                                                                            LOAD under EN | count = 5
+[PASS]                                                                                                                                                                                                    Bonus | count = 7
+$finish called at time : 146 ns : File "D:/Homework_5/counter/counter.srcs/sim_1/new/tb_counter.v" Line 248
